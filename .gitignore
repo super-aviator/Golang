@@ -16,7 +16,6 @@
 
 #排除idea文件夹跟踪
 .idea/
-
 .git/
 **/.git/
 **/.git
